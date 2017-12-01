@@ -1,1 +1,1 @@
-print ('hello world 2.4')
+print ('hello world 2.5')
